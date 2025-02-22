@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in React Router v6 where the `useParams` hook fails to update after internal navigation. The `bug.js` file shows the problem, and `bugSolution.js` provides a corrected version using the `useLocation` hook and a combination of `useEffect` to handle state updates efficiently.
